@@ -1,0 +1,28 @@
+superuser wala admin
+admin - shivamrathore
+password - 12345
+
+student - kartik 
+password - KPmyapp@99
+
+teacher - amit
+passwrod - AJmyapp@99
+
+admin - deepak
+password - DSmyapp@99
+
+director - hariom
+password - HRmyapp@99
+
+
+dean - kundan
+password - KKmyapp@99
+
+faculty adviser - nirmal
+password - NDmyapp@99
+
+..................
+HoD - shivam 
+password - SRmyapp@99
+
+
